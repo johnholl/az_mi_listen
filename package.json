@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "az_mi_listen",
+  "version": "1.0.0",
+  "description": "listens for Firebase messages and plays audio when triggered",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "author": "John Holler",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "firebase": "^8.10.0"
+  }
+}
